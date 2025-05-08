@@ -1,6 +1,6 @@
 # 🚀 SpecterStack – AI-Powered Cyber Defense Simulator
 
-![Screenshot](./assets/demo.gif)
+![Screenshot](./assets/demo.png)
 
 ## 👾 Overview
 SpecterStack is a full-stack, interactive cyber defense simulator that mimics a modern SOC. Featuring real-time attack simulations, custom rule writing, and AI-assisted incident response, it's built for learning, training, and showcasing modern cyber skills.
